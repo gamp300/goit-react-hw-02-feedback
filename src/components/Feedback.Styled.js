@@ -23,4 +23,9 @@ export const FeedbackButton = styled.button`
   margin: 0 5px;
   border-radius: 5px;
   border: 1px solid gray;
+
+  &:hover {
+    background-color: blue;
+    color: white;
+  }
 `;
